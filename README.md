@@ -42,7 +42,7 @@ npm run serve
   - If you think it's better to split the method you can do that too
   
 6. ### Extras
-- Use properties to fill in the end date dinamycly
+- Use properties to fill in the end date dynamically
 - Show a sentence above the timer that changes on counter end
 
 7. ### Extra extras
