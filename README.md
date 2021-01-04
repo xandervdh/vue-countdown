@@ -12,7 +12,7 @@ sudo npm install -g @vue/cli
 2. ### Create a new Vue project
 - Go to the folder where you want your vue project to be created and use following command in the terminal:
 ```text
-vue init <app name>
+vue create <app name>
 ```
 
 - Optionally you can install [tailwind CSS](https://tailwindcss.com/) to use for styling by using following command in the root of your project:
