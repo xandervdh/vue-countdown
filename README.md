@@ -53,3 +53,5 @@ npm run serve
 - [the vue handbook](https://www.freecodecamp.org/news/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446/)
 
 ![I know vue.js](images/vuejs.jpeg)
+
+[the solution](https://github.com/xandervdh/countdown-vue)
