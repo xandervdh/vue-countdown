@@ -47,3 +47,5 @@ npm run serve
 
 7. ### Extra extras
 - Let the user fill in the end date
+
+![I know vue.js](images/vuejs.jpeg)
