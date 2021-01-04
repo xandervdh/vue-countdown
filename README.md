@@ -35,7 +35,7 @@ npm run serve
 5. ### Coding the counter
 - Inside of the counter file put in some default **DATA** in the script
     - days, hours, minutes and seconds are 0 by default
-- Now show the values insie of the **template**
+- Now show the values inside of the **template**
 - We are going to add some **computed properties** in the script for the seconds, minutes, hours and days
   - the values will be how many milliseconds there are in a second, minute, hour and day
 - Let's start with the logic, make a new **method** "showRemaining", in here you will create the logic to make the countdown working
