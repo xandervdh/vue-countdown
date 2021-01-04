@@ -26,19 +26,19 @@ npm run serve
 ```
 4. ### Create the basics
 - Make sure you have a views folder in the src directory, if not create one.
-- Create a Home.vue file in the views folder, create the boilerplate by using: vbase and tab
+- Create a Home.vue file in the views folder, create the boilerplate by using: vbase and tab (you need the vue.js plugin for this)
 - In App.vue delete all styling and replace Helloworld in the components with Home, make sure to import it.
 - Show the Home component in the template
 - Clear the components folder and create a new file Counter.vue with the boilerplate
 - Import Counter.vue in Home.vue and show it in the template
 
 5. ### Coding the counter
-- Inside of the counter file put in some default DATA in the script
+- Inside of the counter file put in some default **DATA** in the script
     - days, hours, minutes and seconds are 0 by default
-- Now show the values insie of the template
-- We are going to add some computed properties in the script for the seconds, minutes, hours and days
+- Now show the values insie of the **template**
+- We are going to add some **computed properties** in the script for the seconds, minutes, hours and days
   - the values will be how many milliseconds there are in a second, minute, hour and day
-- Let's start with the logic, make a new method "showRemaining", in here you will create the logic to make the countdown working
+- Let's start with the logic, make a new **method** "showRemaining", in here you will create the logic to make the countdown working
   - If you think it's better to split the method you can do that too
   
 6. ### Extras
