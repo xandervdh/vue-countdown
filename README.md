@@ -49,4 +49,7 @@ npm run serve
 - Let the user fill in the end date
 - make it look good using tailwind
 
+### Usefull info
+- [the vue handbook](https://www.freecodecamp.org/news/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446/)
+
 ![I know vue.js](images/vuejs.jpeg)
