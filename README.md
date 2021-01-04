@@ -15,7 +15,7 @@ sudo npm install -g @vue/cli
 vue init <app name>
 ```
 
-- Optionally you can install [tailwind CSS](https://tailwindcss.com/) by using following command in the root of your project:
+- Optionally you can install [tailwind CSS](https://tailwindcss.com/) to use for styling by using following command in the root of your project:
 ```text
 vue add tailwind
 ```
@@ -47,5 +47,6 @@ npm run serve
 
 7. ### Extra extras
 - Let the user fill in the end date
+- make it look good using tailwind
 
 ![I know vue.js](images/vuejs.jpeg)
